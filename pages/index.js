@@ -31,8 +31,7 @@ export default function Home() {
         >
           <Heading mb={2}>Hi, I'm Solaiman Shadin</Heading>
           <Text color={colorSecondary[colorMode]}>A self-motivated and enthusiastic web developer with a deep interest in JavaScript. To work in the Software industry with modern web technologies of different local & multinational Software/ IT agencies of Bangladesh and grow rapidly with increasing responsibilities.
-
-</Text>
+          </Text>
         </Flex>
       </Stack>
     </Container>
